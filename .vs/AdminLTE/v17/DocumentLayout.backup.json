@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Projects\\DashboardTemplate\\AdminLTE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C863D768-A4CB-41B9-849A-3AA16A91A81D}|AdminLTE\\src\\Web\\Web.csproj|f:\\projects\\dashboardtemplate\\adminlte\\adminlte\\src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C863D768-A4CB-41B9-849A-3AA16A91A81D}|AdminLTE\\src\\Web\\Web.csproj|solutionrelative:adminlte\\src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B226E37-6EA3-4DBF-8E95-FB151FFC5D6D}|AdminLTE\\src\\Infrastructure\\Infrastructure.csproj|f:\\projects\\dashboardtemplate\\adminlte\\adminlte\\src\\infrastructure\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B226E37-6EA3-4DBF-8E95-FB151FFC5D6D}|AdminLTE\\src\\Infrastructure\\Infrastructure.csproj|solutionrelative:adminlte\\src\\infrastructure\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B226E37-6EA3-4DBF-8E95-FB151FFC5D6D}|AdminLTE\\src\\Infrastructure\\Infrastructure.csproj|f:\\projects\\dashboardtemplate\\adminlte\\adminlte\\src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B226E37-6EA3-4DBF-8E95-FB151FFC5D6D}|AdminLTE\\src\\Infrastructure\\Infrastructure.csproj|solutionrelative:adminlte\\src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C863D768-A4CB-41B9-849A-3AA16A91A81D}|AdminLTE\\src\\Web\\Web.csproj|f:\\projects\\dashboardtemplate\\adminlte\\adminlte\\src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C863D768-A4CB-41B9-849A-3AA16A91A81D}|AdminLTE\\src\\Web\\Web.csproj|solutionrelative:adminlte\\src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552FD00-1560-48EE-85C0-BE341DF03D58}|AdminLTE\\src\\Shared\\Shared.csproj|f:\\projects\\dashboardtemplate\\adminlte\\adminlte\\src\\shared\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B552FD00-1560-48EE-85C0-BE341DF03D58}|AdminLTE\\src\\Shared\\Shared.csproj|solutionrelative:adminlte\\src\\shared\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +39,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projects\\DashboardTemplate\\AdminLTE\\AdminLTE\\src\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "AdminLTE\\src\\Web\\appsettings.json",
+              "ToolTip": "F:\\Projects\\DashboardTemplate\\AdminLTE\\AdminLTE\\src\\Web\\appsettings.json",
+              "RelativeToolTip": "AdminLTE\\src\\Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T13:30:26.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "F:\\Projects\\DashboardTemplate\\AdminLTE\\AdminLTE\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "AdminLTE\\src\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "F:\\Projects\\DashboardTemplate\\AdminLTE\\AdminLTE\\src\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "AdminLTE\\src\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:56:26.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "F:\\Projects\\DashboardTemplate\\AdminLTE\\AdminLTE\\src\\Infrastructure\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "AdminLTE\\src\\Infrastructure\\GlobalUsings.cs",
+              "ToolTip": "F:\\Projects\\DashboardTemplate\\AdminLTE\\AdminLTE\\src\\Infrastructure\\GlobalUsings.cs",
+              "RelativeToolTip": "AdminLTE\\src\\Infrastructure\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:56:24.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\DashboardTemplate\\AdminLTE\\AdminLTE\\src\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "AdminLTE\\src\\Web\\Program.cs",
+              "ToolTip": "F:\\Projects\\DashboardTemplate\\AdminLTE\\AdminLTE\\src\\Web\\Program.cs",
+              "RelativeToolTip": "AdminLTE\\src\\Web\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:56:04.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Services.cs",
+              "DocumentMoniker": "F:\\Projects\\DashboardTemplate\\AdminLTE\\AdminLTE\\src\\Shared\\Services.cs",
+              "RelativeDocumentMoniker": "AdminLTE\\src\\Shared\\Services.cs",
+              "ToolTip": "F:\\Projects\\DashboardTemplate\\AdminLTE\\AdminLTE\\src\\Shared\\Services.cs",
+              "RelativeToolTip": "AdminLTE\\src\\Shared\\Services.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:55:42.233Z",
+              "EditorCaption": ""
             }
           ]
         }
